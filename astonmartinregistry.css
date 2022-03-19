@@ -284,7 +284,7 @@ h3 {
     font-size: 1.5vw;
     padding-top: 5vw;
     padding-bottom: 5vw;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Lato', sans-serif;
     text-align: left;
 }
 
@@ -331,5 +331,6 @@ h3 {
     }
     .manifestobox {
         font-size: 3vw;
+        width: 60%;
     }
 }
